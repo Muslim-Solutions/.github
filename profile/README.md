@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Muslim-Solutions/.github/main/profile/banner.png" alt="Muslim Solutions - International-grade halal software company" width="100%" onerror="this.style.display='none'" />
+<img src="muslim-solutions-profile-picture-2026-v2.png" alt="Muslim Solutions" width="180" style="border-radius: 20px;" />
 
 <h1>Muslim Solutions</h1>
 <p><b>International-grade halal software company. Reliable platforms for work & worship, plus custom websites & apps built on amanah.</b></p>
