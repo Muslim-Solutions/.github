@@ -1,4 +1,7 @@
-<p align="center"><img src="muslim-solutions-profile-picture-2026-v2.png" alt="Muslim Solutions" width="180" /></p>
+<div align="center">
+<p align="center">
+<img src="muslim-solutions-profile-picture-2026-v2.png" alt="Muslim Solutions" width="180" />
+</p>
 
 <h1>Muslim Solutions</h1>
 <p><b>International-grade halal software company. Reliable platforms for work & worship, plus custom websites & apps built on amanah.</b></p>
